@@ -1,0 +1,23 @@
+{
+  "name": "Send-an-email",
+  "version": "1.0.0",
+  "description": "Send-an-email permits to send emails without launching any browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikeC0xl0ng/Send-an-email.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikeC0xl0ng/Send-an-email/issues"
+  },
+  "homepage": "https://github.com/MikeC0xl0ng/Send-an-email#readme",
+  "dependencies": {
+    "nodemailer": "^6.5.0"
+  }
+}
