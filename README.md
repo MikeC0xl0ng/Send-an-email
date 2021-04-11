@@ -1,2 +1,3 @@
-# Send-an-email
-Sending email by implementing Nodemailer module
+# Send-an-email project
+
+Send-an-email permits to send emails without launching any browser
